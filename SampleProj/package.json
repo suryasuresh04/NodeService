@@ -1,0 +1,21 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subramanian",
+  "license": "ISC",
+  "dependencies": {
+    "bingspeech-api-client": "^2.2.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.2",
+    "express-json": "^1.0.0",
+    "express-session": "^1.15.4",
+    "fs": "0.0.1-security",
+    "luis-sdk": "^1.0.1",
+    "multer": "^1.3.0"
+  }
+}

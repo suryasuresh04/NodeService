@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flightStatusResponse xmlns:ns2="http://www.delta.com/ecom/data/common">
+    <status>SUCCESS</status>
+    <statusResponse>
+        <flightStatusTO>
+            <changeOfAircraft>true</changeOfAircraft>
+            <connectionCarrierOrCodeShareOperator>false</connectionCarrierOrCodeShareOperator>
+            <flightNumber>17</flightNumber>
+            <flightOriginDate>2017-04-17T00:00:00.001-04:00</flightOriginDate>
+            <flightStatusLegTOList>
+                <airlineCode>DL</airlineCode>
+                <airlineName>Delta</airlineName>
+                <arrivalAirportCode>DTW</arrivalAirportCode>
+                <arrivalAirportMapUrl>/content/www/en_US/traveling-with-us/airports-and-aircraft/airports/detroit.html</arrivalAirportMapUrl>
+                <arrivalAirportName>Detroit Metro Arpt</arrivalAirportName>
+                <arrivalCityName>Detroit, MI</arrivalCityName>
+                <arrivalGate>A38</arrivalGate>
+                <arrivalLocalTimeEstimatedActual>2017-04-17T12:49:00.001-04:00</arrivalLocalTimeEstimatedActual>
+                <arrivalLocalTimeEstimatedActualLabel>actual</arrivalLocalTimeEstimatedActualLabel>
+                <arrivalLocalTimeScheduled>2017-04-17T13:05:00.001-04:00</arrivalLocalTimeScheduled>
+                <arrivalTerminal>McNamara Terminal</arrivalTerminal>
+                <arrivalTsoagLatitudeDecimal>42.2125</arrivalTsoagLatitudeDecimal>
+                <arrivalTsoagLongitudeDecimal>-83.35333</arrivalTsoagLongitudeDecimal>
+                <cabinCodeBusinessInd>C</cabinCodeBusinessInd>
+                <cabinCodeCoachInd>Y</cabinCodeCoachInd>
+                <cabinCodeComfortInd>W</cabinCodeComfortInd>
+                <changeOfAircraft>true</changeOfAircraft>
+                <connectionCarrierOrCodeShareOperator>false</connectionCarrierOrCodeShareOperator>
+                <departureAirportCode>LHR</departureAirportCode>
+                <departureAirportMapUrl>/content/www/en_US/traveling-with-us/airports-and-aircraft/airports/london.html</departureAirportMapUrl>
+                <departureAirportName>Heathrow Airport</departureAirportName>
+                <departureCityName>London-Heathrow, United Kingdom</departureCityName>
+                <departureGate>5</departureGate>
+                <departureLocalTimeEstimatedActual>2017-04-17T09:15:00.001-04:00</departureLocalTimeEstimatedActual>
+                <departureLocalTimeEstimatedActualLabel>actual</departureLocalTimeEstimatedActualLabel>
+                <departureLocalTimeScheduled>2017-04-17T09:25:00.001-04:00</departureLocalTimeScheduled>
+                <departureTerminal>Terminal 3</departureTerminal>
+                <departureTsoagLatitudeDecimal>51.4775</departureTsoagLatitudeDecimal>
+                <departureTsoagLongitudeDecimal>-0.46138</departureTsoagLongitudeDecimal>
+                <equipmentCodeCass>6LW</equipmentCodeCass>
+                <equipmentCodeDelta>76L</equipmentCodeDelta>
+                <equipmentCodeIndustry>76W</equipmentCodeIndustry>
+                <equipmentType>Boeing 767-300 </equipmentType>
+                <flightDistance>3753</flightDistance>
+                <flightNumber>17</flightNumber>
+                <flightPerformanceCancellationsStat>n/a</flightPerformanceCancellationsStat>
+                <flightPerformanceOnTimeStat>n/a</flightPerformanceOnTimeStat>
+                <flightPerformancePlus30Stat>n/a</flightPerformancePlus30Stat>
+                <flightStateColor>GREEN</flightStateColor>
+                <flightStateDescription>Flight Complete</flightStateDescription>
+                <legNumber>0</legNumber>
+                <marketAirlineCode>DL</marketAirlineCode>
+                <marketAirlineName>Delta Air Lines</marketAirlineName>
+                <mealCabinCodeFirstBusinessClass>C</mealCabinCodeFirstBusinessClass>
+                <mealDescriptionCoachClass>Breakfast</mealDescriptionCoachClass>
+                <mealDescriptionComfortClass>Breakfast; Complimentary Beer, Wine, and Spirits</mealDescriptionComfortClass>
+                <mealDescriptionFirstBusinessClass>Breakfast</mealDescriptionFirstBusinessClass>
+                <movieShown>Yes</movieShown>
+                <operatingAirlineName></operatingAirlineName>
+                <samePlaneShowFlightStatusLink>false</samePlaneShowFlightStatusLink>
+                <serviceDisruption>false</serviceDisruption>
+                <shipNumber>000175</shipNumber>
+                <travelTimeHours>8</travelTimeHours>
+                <travelTimeMinutes>40</travelTimeMinutes>
+                <tripNumber>0</tripNumber>
+            </flightStatusLegTOList>
+            <flightStatusLegTOList>
+                <airlineCode>DL</airlineCode>
+                <airlineName>Delta</airlineName>
+                <arrivalAirportCode>MCO</arrivalAirportCode>
+                <arrivalAirportMapUrl>/content/www/en_US/traveling-with-us/airports-and-aircraft/airports/orlando.html</arrivalAirportMapUrl>
+                <arrivalAirportName>Orlando Intl</arrivalAirportName>
+                <arrivalCityName>Orlando, FL</arrivalCityName>
+                <arrivalGate>75</arrivalGate>
+                <arrivalLocalTimeEstimatedActual>2017-04-17T17:37:00.001-04:00</arrivalLocalTimeEstimatedActual>
+                <arrivalLocalTimeEstimatedActualLabel>actual</arrivalLocalTimeEstimatedActualLabel>
+                <arrivalLocalTimeScheduled>2017-04-17T17:55:00.001-04:00</arrivalLocalTimeScheduled>
+                <arrivalTsoagLatitudeDecimal>28.4294</arrivalTsoagLatitudeDecimal>
+                <arrivalTsoagLongitudeDecimal>-81.30888</arrivalTsoagLongitudeDecimal>
+                <cabinCodeBusinessInd>C</cabinCodeBusinessInd>
+                <cabinCodeCoachInd>Y</cabinCodeCoachInd>
+                <cabinCodeComfortInd>W</cabinCodeComfortInd>
+                <changeOfAircraft>false</changeOfAircraft>
+                <connectionCarrierOrCodeShareOperator>false</connectionCarrierOrCodeShareOperator>
+                <departureAirportCode>DTW</departureAirportCode>
+                <departureAirportMapUrl>/content/www/en_US/traveling-with-us/airports-and-aircraft/airports/detroit.html</departureAirportMapUrl>
+                <departureAirportName>Detroit Metro Arpt</departureAirportName>
+                <departureCityName>Detroit, MI</departureCityName>
+                <departureGate>A64</departureGate>
+                <departureLocalTimeEstimatedActual>2017-04-17T15:14:00.001-04:00</departureLocalTimeEstimatedActual>
+                <departureLocalTimeEstimatedActualLabel>actual</departureLocalTimeEstimatedActualLabel>
+                <departureLocalTimeScheduled>2017-04-17T15:17:00.001-04:00</departureLocalTimeScheduled>
+                <departureTerminal>McNamara Terminal</departureTerminal>
+                <departureTsoagLatitudeDecimal>42.2125</departureTsoagLatitudeDecimal>
+                <departureTsoagLongitudeDecimal>-83.35333</departureTsoagLongitudeDecimal>
+                <equipmentCodeCass>WY5</equipmentCodeCass>
+                <equipmentCodeDelta>75Y</equipmentCodeDelta>
+                <equipmentCodeIndustry>753</equipmentCodeIndustry>
+                <equipmentType>Boeing 757-300 </equipmentType>
+                <flightDistance>957</flightDistance>
+                <flightNumber>17</flightNumber>
+                <flightPerformanceCancellationsStat>n/a</flightPerformanceCancellationsStat>
+                <flightPerformanceOnTimeStat>n/a</flightPerformanceOnTimeStat>
+                <flightPerformancePlus30Stat>n/a</flightPerformancePlus30Stat>
+                <flightStateColor>GREEN</flightStateColor>
+                <flightStateDescription>Flight Complete</flightStateDescription>
+                <legNumber>1</legNumber>
+                <marketAirlineCode>DL</marketAirlineCode>
+                <marketAirlineName>Delta Air Lines</marketAirlineName>
+                <mealCabinCodeFirstBusinessClass>C</mealCabinCodeFirstBusinessClass>
+                <mealDescriptionCoachClass>Complimentary Refreshments; Premium Snacks for Purchase</mealDescriptionCoachClass>
+                <mealDescriptionComfortClass>Complimentary Beer, Wine, and Spirits</mealDescriptionComfortClass>
+                <mealDescriptionFirstBusinessClass>Refreshments</mealDescriptionFirstBusinessClass>
+                <movieShown>No</movieShown>
+                <operatingAirlineName></operatingAirlineName>
+                <samePlaneShowFlightStatusLink>false</samePlaneShowFlightStatusLink>
+                <serviceDisruption>false</serviceDisruption>
+                <shipNumber>005809</shipNumber>
+                <travelTimeHours>2</travelTimeHours>
+                <travelTimeMinutes>38</travelTimeMinutes>
+                <tripNumber>0</tripNumber>
+            </flightStatusLegTOList>
+            <serviceDisruptionLegNumber>-1</serviceDisruptionLegNumber>
+        </flightStatusTO>
+        <faultDO/>
+    </statusResponse>
+</flightStatusResponse>
